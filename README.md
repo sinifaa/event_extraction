@@ -9,4 +9,4 @@ To run the code:
 5. Now run all the cells.
 
 <br><br><br><br>
-## This project was submitted for the NLP course 2023 at IIIT Allahabad
+This project was submitted for the NLP course 2023 at IIIT Allahabad
